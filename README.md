@@ -9,6 +9,7 @@
     
 #### 테스트
 
-- <a href="https://colab.research.google.com/github/nojiyoon/simsimi_model/blob/main/badsimsimi_test.ipynb" target="_blank">colab notebook</a>
+- <a href="https://colab.research.google.com/github/nojiyoon/simsimi_model/blob/main/badsimsimi_test.ipynb" target="_blank"> colab notebook </a>
+
 
 - 런타임-모두실행 --> 마지막 셀에서 테스트 가능
